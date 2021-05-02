@@ -3,23 +3,27 @@
   <img width="150" height="150" src="./assets/images/logo.svg">
 </p>
 
-<h3 align="center">ATSimpleBlog</h3>
+<h3 align="center">AT Simple Blog</h3>
 
 <p align="center">
     <br>
-    This is a simple, RTL and responsive HTML blog template. it's built with Bootstrap v4.5.2.
+    This is a simple, RTL and responsive HTML blog template. it's built with Bootstrap v4.5.2 framework and jQuery.
     <br>
-    <a href="https://github.com/AliTajari/ATSimpleBlog/issues/new">Report bug</a>
+    <a href="https://github.com/AliTajari/AT-Simple-Blog/issues/new">Report bug</a>
     ·
-    <a href="https://github.com/AliTajari/ATSimpleBlog/issues/new">Request feature</a>
+    <a href="https://github.com/AliTajari/AT-Simple-Blog/issues/new">Request feature</a>
+    .
+    <a href="https://alitajari.github.io/AT-Simple-Blog/index.html">Demo</a>
 </p>
 <p align="center" dir="rtl">
     <br>
-    قالب html ساده، راستچین و واکنشگرا. ساخته شده با فریم ورک Bootstrap v4.5.2.
+    قالب html ساده، راستچین و واکنشگرا. ساخته شده با فریم ورک Bootstrap v4.5.2 و جی کوئری.
     <br>
-    <a href="https://github.com/AliTajari/ATSimpleBlog/issues/new">گزارش ایراد</a>
+    <a href="https://github.com/AliTajari/AT-Simple-Blog/issues/new">گزارش ایراد</a>
     ·
-    <a href="https://github.com/AliTajari/ATSimpleBlog/issues/new">درخواست امکانات</a>
+    <a href="https://github.com/AliTajari/AT-Simple-Blog/issues/new">درخواست امکانات</a>
+    .
+    <a href="https://alitajari.github.io/AT-Simple-Blog/index.html">پیش نمایش</a>
 </p>
 <br><br><br>
 
