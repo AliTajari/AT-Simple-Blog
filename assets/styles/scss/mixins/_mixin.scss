@@ -1,0 +1,34 @@
+// Variable
+$cLight: #fbfbfb;
+$cDarkGray: #353535;
+$cFirst: #E83F44;
+$cSecond: #495355;
+$cThird: #bd3147;
+$defaultFont: atres, sans-serif;
+$defaultFontSize: 11pt;
+
+// template mixins
+@mixin border-radius($values: 4px){
+    border-radius: $values;
+    -moz-border-radius: $values;
+    -webkit-border-radius: $values;
+    -khtml-border-radius: $values;
+}
+@mixin transition($value: all 0.3s ease){
+    -webkit-transition: $value;
+    -moz-transition: $value;
+    -ms-transition: $value;
+    -o-transition: $value;
+    transition: $value;
+}
+@mixin transform($value){
+    -webkit-transform: $value;
+    -moz-transform: $value;
+    -o-transform: $value;
+    -ms-transform: $value;
+    transform: $value;
+}
+@mixin filter($value){
+    filter: $value;
+    -webkit-filter: $value;
+}
